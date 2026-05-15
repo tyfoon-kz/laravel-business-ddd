@@ -2,6 +2,8 @@
 
 This repository is the reference repository for the Laravel Business DDD course.
 
+Students do not clone this repository, do not push homework here, and do not send this repository as a review URL. It exists as the canonical reference line for Tyfoon mentor review service.
+
 It starts from the final reference solution of the previous PHP to Enterprise CRUD course and escalates that working Laravel/Filament CRUD project into a business-first DDD-lite learning path.
 
 Imported source:

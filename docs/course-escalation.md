@@ -11,6 +11,8 @@ source commit: 05083d1a3cc9f93e3884834b6ce760df0e1f08d4
 target repository: git@github.com:tyfoon-kz/laravel-business-ddd.git
 ```
 
+This repository is mentor-only. Students work in their own course workspace or repository. They must not clone this repository as their working copy, push homework here, or submit this repository URL for review.
+
 The import was created from Git object history through `git archive`, so local uncommitted changes in the previous repository are not part of this baseline.
 
 ## Why the course starts here
